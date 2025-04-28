@@ -1,0 +1,8 @@
+/cmake-build-debug
+/venv
+/.idea
+.idea
+*.iml
+*.pyc
+*.pyo
+*.pyd
